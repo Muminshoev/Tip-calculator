@@ -10,5 +10,5 @@ function doMath() {
     total.innerHTML = totalBill.toFixed(2)
 }
 
-calculate.addEventListener("click", doMath)
+calculate.addEventListener("click", doMath);
 
